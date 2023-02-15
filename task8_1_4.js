@@ -16,9 +16,4 @@ let hamster = {
     stomach: []
   };
   
-  // Этот хомяк нашёл еду
-  speedy.eat("apple");
-  alert( speedy.stomach ); // apple
   
-  // У этого хомяка тоже есть еда. Почему? Исправьте
-  alert( lazy.stomach ); // apple
