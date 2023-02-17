@@ -13,3 +13,9 @@ dictionary.__proto__ = "test";
 
 
 alert(dictionary); 
+
+
+
+
+
+
